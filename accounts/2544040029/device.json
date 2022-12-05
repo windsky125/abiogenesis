@@ -1,0 +1,38 @@
+{
+    "product": "AQUOS sense5G SH-S50",
+    "device": "SarahH",
+    "board": "SarahH",
+    "brand": "Sharp",
+    "model": "SH-S50",
+    "wifi_ssid": "TP-LINK_SYOSEV",
+    "android_id": "6495666",
+    "boot_id": "9cc792ab-1ea0-a11c-5fa4-51dbdbd517b3",
+    "proc_version": "Linux version 4.12.72-o7sevwcZ (android-build@ea0a11c5fa45.source.android.com)",
+    "mac_address": "9C:C7:92:AB:1E:A0",
+    "ip_address": [
+        188,
+        151,
+        206,
+        158
+    ],
+    "imei": "469341550750801",
+    "incremental": "4264563455",
+    "protocol": 5,
+    "display": "6495666",
+    "finger_print": "Sharp/AQUOS sense5G SH-S50/SarahH:10/6495666/4264563455:user/release-keys",
+    "baseband": "",
+    "sim": "T-Mobile",
+    "os_type": "android",
+    "bootloader": "U-boot",
+    "wifi_bssid": "9C:C7:92:AB:1E:A0",
+    "apn": "wifi",
+    "version": {
+        "incremental": "4264563455",
+        "release": "10",
+        "codename": "REL",
+        "sdk": 29
+    },
+    "imsi_md5": "be6940686df8f3f1b1749c7e56e95dea",
+    "vendor_name": "Sharp",
+    "vendor_os_name": "android"
+}

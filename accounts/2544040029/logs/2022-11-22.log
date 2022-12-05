@@ -1,0 +1,687 @@
+[2022-11-22 16:29:21] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:10003->127.0.0.1:8880: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2022-11-22 16:29:23] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:10003->127.0.0.1:8880: wsasend: An existing connection was forcibly closed by the remote host. 
+[2022-11-22 16:29:28] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8880/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8880: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-22 16:29:33] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8880/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8880: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-22 16:29:38] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8880/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8880: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-22 16:29:43] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8880/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8880: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-22 16:29:48] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8880/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8880: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-22 16:29:53] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8880/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8880: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-22 16:29:58] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8880/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8880: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-22 16:30:03] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8880/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8880: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-22 16:30:08] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8880/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8880: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-22 16:30:13] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8880/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8880: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-22 16:30:19] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8880/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8880: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-22 16:30:24] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8880/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8880: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-22 16:30:29] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8880/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8880: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-22 16:30:34] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8880/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8880: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-22 16:30:39] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8880/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8880: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-22 16:30:44] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8880/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8880: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-22 16:30:49] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8880/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8880: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-22 16:30:54] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8880/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8880: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-22 16:30:59] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8880/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8880: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-22 16:31:04] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8880/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8880: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-22 16:31:09] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8880/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8880: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-22 16:31:14] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8880/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8880: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-22 16:31:19] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8880/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8880: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-22 16:31:24] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8880/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8880: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-22 16:31:29] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8880/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8880: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-22 16:31:34] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8880/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8880: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-22 16:31:39] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8880/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8880: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-22 16:31:44] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8880/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8880: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-22 16:31:49] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8880/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8880: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-22 16:31:54] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8880/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8880: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-22 16:31:59] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8880/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8880: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-22 16:32:04] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8880/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8880: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-22 16:32:09] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8880/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8880: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-22 16:32:15] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8880/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8880: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-22 16:32:20] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8880/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8880: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-22 16:32:25] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8880/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8880: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-22 16:32:30] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8880/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8880: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-22 16:32:35] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8880/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8880: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-22 16:32:40] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8880/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8880: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-22 16:32:45] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8880/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8880: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-22 16:32:50] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8880/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8880: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-22 16:32:55] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8880/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8880: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-22 16:33:00] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8880/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8880: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-22 16:33:05] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8880/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8880: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-22 16:33:10] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8880/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8880: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-22 16:33:15] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8880/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8880: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-22 16:33:20] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8880/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8880: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-22 16:33:25] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8880/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8880: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-22 16:33:30] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8880/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8880: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-22 16:33:35] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8880/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8880: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-22 16:33:40] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8880/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8880: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-22 16:33:45] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8880/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8880: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-22 16:33:50] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8880/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8880: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-22 16:33:55] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8880/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8880: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-22 16:34:00] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8880/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8880: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-22 16:34:06] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8880/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8880: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-22 16:34:11] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8880/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:8880: connectex: No connection could be made because the target machine actively refused it. 
+[2022-11-22 16:34:21] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-11-22 16:59:10] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-11-22 17:01:42] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-11-22 17:07:23] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-11-22 17:11:41] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-11-22 18:54:43] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-11-22 18:59:59] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-11-22 19:00:30] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-11-22 19:28:50] [ERROR]: Protocol -> unexpected disconnect: read tcp 10.8.120.125:14866->180.101.246.26:8080: wsarecv: An established connection was aborted by the software in your host machine. 
+[2022-11-22 19:28:50] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 109.244.152.125:8080: connectex: A socket operation was attempted to an unreachable network. 
+[2022-11-22 19:28:50] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 109.244.152.125:8080: connectex: A socket operation was attempted to an unreachable network. 
+[2022-11-22 19:28:50] [WARNING]: Bot已离线: connection dropped by server. 
+[2022-11-22 19:28:53] [WARNING]: 将在 3 秒后尝试重连. 重连次数：2/0 
+[2022-11-22 19:28:58] [WARNING]: 尝试重连... 
+[2022-11-22 19:28:58] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-11-22 20:21:54] [ERROR]: Protocol -> unexpected disconnect: read tcp 192.168.243.49:12007->109.244.152.218:8080: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2022-11-22 20:21:54] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 120.232.69.190:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:21:54] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 120.232.69.190:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:21:54] [WARNING]: Bot已离线: connection dropped by server. 
+[2022-11-22 20:21:57] [WARNING]: 将在 3 秒后尝试重连. 重连次数：2/0 
+[2022-11-22 20:22:00] [WARNING]: 尝试重连... 
+[2022-11-22 20:22:00] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 111.30.169.45:14000: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:22:00] [WARNING]: 快速重连失败: dial tcp error: dial tcp 111.30.169.45:14000: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:22:00] [FATAL]: 快速重连失败, 扫码登录无法恢复会话. 
+[2022-11-22 20:22:03] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:22:03] [WARNING]: 恢复会话失败: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. , 尝试使用正常流程登录. 
+[2022-11-22 20:22:04] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:22:04] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:22:07] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:22:07] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:22:07] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:22:10] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:22:10] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:22:10] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:22:13] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:22:13] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:22:13] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:22:17] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:22:17] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:22:17] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:22:20] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:22:20] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:22:20] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:22:23] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:22:23] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:22:23] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:22:26] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:22:26] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:22:26] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:22:29] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:22:29] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:22:29] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:22:32] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:22:32] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:22:32] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:22:36] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:22:36] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:22:36] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:22:39] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:22:39] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:22:39] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:22:42] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:22:42] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:22:42] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:22:45] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:22:45] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:22:45] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:22:48] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:22:48] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:22:48] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:22:52] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:22:52] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:22:52] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:22:55] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:22:55] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:22:55] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:22:58] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:22:58] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:22:58] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:23:01] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:23:01] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:23:01] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:23:04] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:23:04] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:23:04] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:23:07] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:23:07] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:23:07] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:23:11] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:23:11] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:23:11] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:23:14] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:23:14] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:23:14] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:23:17] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:23:17] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:23:17] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:23:20] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:23:20] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:23:20] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:23:23] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:23:23] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:23:23] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:23:27] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:23:27] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:23:27] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:23:30] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:23:30] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:23:30] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:23:33] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:23:33] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:23:33] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:23:36] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:23:36] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:23:36] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:23:39] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:23:39] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:23:39] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:23:43] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:23:43] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:23:43] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:23:46] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:23:46] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:23:46] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:23:49] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:23:49] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:23:49] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:23:52] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:23:52] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:23:52] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:23:55] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:23:55] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:23:55] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:23:59] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:23:59] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:23:59] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:24:02] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:24:02] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:24:02] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:24:05] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:24:05] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:24:05] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:24:08] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:24:08] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:24:08] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:24:11] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:24:11] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:24:11] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:24:15] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:24:15] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:24:15] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:24:18] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:24:18] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:24:18] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:24:21] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:24:21] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:24:21] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:24:24] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:24:24] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:24:24] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:24:27] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:24:27] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:24:27] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:24:30] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:24:30] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:24:30] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:24:34] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:24:34] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:24:34] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:24:37] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:24:37] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:24:37] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:24:40] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:24:40] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:24:40] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:24:43] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:24:43] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:24:43] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:24:46] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:24:46] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:24:46] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:24:50] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:24:50] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:24:50] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:24:53] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:24:53] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:24:53] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:24:56] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:24:56] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:24:56] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:24:59] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:24:59] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:24:59] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:25:02] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:25:02] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:25:02] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:25:05] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:25:05] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:25:05] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:25:09] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:25:09] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:25:09] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:25:12] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:25:12] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:25:12] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:25:15] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:25:15] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:25:15] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:25:18] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:25:18] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:25:18] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:25:21] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:25:22] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:25:22] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:25:25] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:25:25] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:25:25] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:25:28] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:25:28] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:25:28] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:25:31] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:25:31] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:25:31] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:25:34] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:25:34] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:25:34] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:25:37] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:25:37] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:25:37] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:25:41] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:25:41] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:25:41] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:25:44] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:25:44] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:25:44] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:25:47] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:25:47] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:25:47] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:25:50] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:25:50] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:25:50] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:25:53] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:25:53] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:25:53] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:25:57] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:25:57] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:25:57] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:26:00] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:26:00] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:26:00] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:26:03] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:26:03] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:26:03] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:26:06] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:26:06] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:26:06] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:26:09] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:26:09] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:26:09] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:26:13] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:26:13] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:26:13] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:26:16] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:26:16] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:26:16] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:26:19] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:26:19] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:26:19] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:26:22] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:26:22] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:26:22] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:26:25] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:26:25] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:26:25] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:26:29] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:26:29] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:26:29] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:26:32] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:26:32] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:26:32] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:26:35] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:26:35] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:26:35] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:26:38] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:26:38] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:26:38] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:26:41] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:26:41] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:26:41] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:26:44] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:26:44] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:26:44] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:26:48] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:26:48] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:26:48] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:26:51] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:26:51] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:26:51] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:26:54] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:26:54] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:26:54] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:26:57] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:26:57] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:26:57] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:27:00] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:27:00] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:27:00] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:27:04] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:27:04] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:27:04] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:27:07] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:27:07] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:27:07] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:27:10] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:27:10] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:27:10] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:27:13] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:27:13] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:27:13] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:27:16] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:27:16] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:27:16] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:27:20] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:27:20] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:27:20] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:27:23] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:27:23] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:27:23] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:27:26] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:27:26] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:27:26] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:27:29] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:27:29] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:27:29] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:27:32] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:27:32] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:27:32] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:27:35] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:27:35] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:27:35] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:27:39] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:27:39] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:27:39] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:27:42] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:27:42] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:27:42] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:27:45] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:27:45] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:27:45] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:27:48] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:27:48] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:27:48] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:27:51] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:27:51] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:27:51] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:27:55] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:27:55] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:27:55] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:27:58] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:27:58] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:27:58] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:28:01] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:28:01] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:28:01] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:28:04] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:28:04] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:28:04] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:28:07] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:28:07] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:28:07] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:28:11] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:28:11] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:28:11] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:28:14] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:28:14] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:28:14] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:28:17] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:28:17] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:28:17] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:28:20] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:28:20] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:28:20] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:28:23] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:28:23] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:28:23] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:28:27] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:28:27] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:28:27] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:28:30] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:28:30] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:28:30] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:28:33] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:28:33] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:28:33] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:28:36] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:28:36] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:28:36] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:28:39] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:28:39] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:28:39] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:28:43] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:28:43] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:28:43] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:28:46] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:28:46] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:28:46] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:28:49] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:28:49] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:28:49] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:28:52] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:28:52] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:28:52] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:28:55] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:28:55] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:28:55] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:28:59] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:28:59] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:28:59] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:29:02] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:29:02] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:29:02] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:29:05] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:29:05] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:29:05] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:29:08] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:29:08] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:29:08] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:29:11] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:29:11] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:29:11] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:29:15] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:29:15] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:29:15] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:29:18] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:29:18] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:29:18] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:29:21] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:29:21] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:29:21] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:29:24] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:29:24] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:29:24] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:29:27] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:29:27] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:29:27] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:29:30] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:29:30] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:29:30] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:29:34] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:29:34] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:29:34] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:29:37] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:29:37] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:29:37] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:29:40] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:29:40] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:29:40] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:29:43] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:29:43] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:29:43] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:29:46] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:29:46] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:29:46] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:29:50] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:29:50] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:29:50] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:29:53] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:29:53] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:29:53] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:29:56] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:29:56] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:29:56] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:29:59] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:29:59] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:29:59] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:30:02] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:30:02] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:30:02] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:30:06] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:30:06] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:30:06] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:30:09] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:30:09] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:30:09] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:30:12] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:30:12] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:30:12] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:30:15] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:30:15] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:30:15] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:30:18] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:30:18] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:30:18] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:30:22] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:30:22] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:30:22] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:30:25] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:30:25] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:30:25] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:30:28] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:30:28] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:30:28] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:30:31] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:30:31] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:30:31] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:30:34] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:30:34] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:30:34] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:30:37] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:30:37] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:30:37] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:30:41] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:30:41] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:30:41] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:30:44] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:30:44] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:30:44] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:30:47] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:30:47] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:30:47] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:30:50] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:30:50] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:30:50] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:30:53] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:30:53] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:30:53] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:30:57] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:30:57] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:30:57] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:31:00] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:31:00] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:31:00] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:31:03] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:31:03] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:31:03] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:31:06] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:31:06] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:31:06] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:31:09] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:31:09] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:31:09] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:31:13] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:31:13] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:31:13] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:31:16] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:31:16] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:31:16] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:31:19] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:31:19] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:31:19] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:31:22] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:31:22] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:31:22] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:31:25] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:31:25] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:31:25] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:31:29] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:31:29] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:31:29] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:31:32] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:31:32] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:31:32] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:31:35] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:31:35] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:31:35] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:31:38] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:31:38] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:31:38] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:31:41] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:31:41] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:31:41] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:31:45] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:31:45] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:31:45] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:31:48] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:31:48] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:31:48] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:31:51] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:31:51] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:31:51] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:31:54] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:31:54] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:31:54] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable host. 
+[2022-11-22 20:31:57] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:31:57] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable network. 
+[2022-11-22 20:31:57] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 42.81.172.81:80: connectex: A socket operation was attempted to an unreachable network. 
+[2022-11-22 20:32:01] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:32:31] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 109.244.152.125:8080: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2022-11-22 20:32:31] [FATAL]: 登录时发生致命错误: dial tcp error: dial tcp 109.244.152.125:8080: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2022-11-22 20:32:34] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:34:39] [FATAL]: 二维码过期 
+[2022-11-22 20:34:42] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:36:44] [FATAL]: 二维码过期 
+[2022-11-22 20:36:47] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:38:49] [FATAL]: 二维码过期 
+[2022-11-22 20:38:54] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:40:56] [FATAL]: 二维码过期 
+[2022-11-22 20:40:59] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:43:01] [FATAL]: 二维码过期 
+[2022-11-22 20:43:04] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:45:06] [FATAL]: 二维码过期 
+[2022-11-22 20:45:09] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:47:12] [FATAL]: 二维码过期 
+[2022-11-22 20:47:17] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:49:19] [FATAL]: 二维码过期 
+[2022-11-22 20:49:22] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:51:24] [FATAL]: 二维码过期 
+[2022-11-22 20:51:29] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 20:52:38] [ERROR]: Protocol -> unexpected disconnect: read tcp 10.8.120.125:6208->109.244.152.218:8080: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2022-11-22 20:53:10] [ERROR]: Protocol -> register client failed: Packet timed out 
+[2022-11-22 21:16:20] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 21:17:11] [WARNING]: 账号密码未配置, 将使用二维码登录. 
+[2022-11-22 21:17:52] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-11-22 21:20:15] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-11-22 21:23:20] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-11-22 21:24:47] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-11-22 21:32:06] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-11-22 21:35:55] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-11-22 21:38:29] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-11-22 21:39:02] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-11-22 21:41:13] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-11-22 21:42:27] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-11-22 21:43:33] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-11-22 22:01:42] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-11-22 22:02:13] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-11-22 22:04:14] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-11-22 22:06:29] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-11-22 22:09:10] [WARNING]: Protocol -> device lock is disable. http api may fail. 

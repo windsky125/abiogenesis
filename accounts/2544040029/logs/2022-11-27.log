@@ -1,0 +1,19 @@
+[2022-11-27 00:27:28] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2022-11-27 00:27:38] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2022-11-27 16:10:12] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-11-27 16:10:39] [WARNING]: 警告: 私聊 2422760965 图片上传失败: image type error: application/octet-stream 
+[2022-11-27 16:11:51] [WARNING]: 警告: 私聊 2422760965 图片上传失败: image type error: application/octet-stream 
+[2022-11-27 16:12:12] [WARNING]: 警告: 群 691299356 图片上传失败: image type error: application/octet-stream 
+[2022-11-27 16:14:02] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-11-27 16:14:16] [WARNING]: 警告: 私聊 2422760965 图片上传失败: image type error: application/octet-stream 
+[2022-11-27 16:17:08] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-11-27 16:18:22] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-11-27 18:28:12] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-11-27 18:30:34] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-11-27 21:12:16] [WARNING]: 转换CQ码 ({"type": "image", "data": {"file": "https://i.pixiv.re/img-master/img/2015/06/03/02/53/34/50696905_p0_master1200.jpg"}}) 到MiraiGo Element时出现错误: Get "https://i.pixiv.re/img-master/img/2015/06/03/02/53/34/50696905_p0_master1200.jpg": dial tcp 104.21.234.146:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 将忽略本段CQ码. 
+[2022-11-27 21:12:16] [WARNING]: 群消息发送失败: 消息为空. 
+[2022-11-27 21:13:01] [WARNING]: 转换CQ码 ({"type": "image", "data": {"file": "https://i.pixiv.re/img-master/img/2022/04/29/22/24/30/97970059_p0_master1200.jpg"}}) 到MiraiGo Element时出现错误: Get "https://i.pixiv.re/img-master/img/2022/04/29/22/24/30/97970059_p0_master1200.jpg": dial tcp 104.21.234.146:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 将忽略本段CQ码. 
+[2022-11-27 21:13:01] [WARNING]: 群消息发送失败: 消息为空. 
+[2022-11-27 21:14:34] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-11-27 21:15:26] [WARNING]: 转换CQ码 ({"type": "image", "data": {"file": "https://i.pixiv.re/img-master/img/2021/10/24/19/36/44/93657087_p0_master1200.jpg"}}) 到MiraiGo Element时出现错误: Get "https://i.pixiv.re/img-master/img/2021/10/24/19/36/44/93657087_p0_master1200.jpg": dial tcp 104.21.234.146:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 将忽略本段CQ码. 
+[2022-11-27 21:15:26] [WARNING]: 群消息发送失败: 消息为空. 

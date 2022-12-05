@@ -1,0 +1,19 @@
+[2022-11-26 00:00:12] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-11-26 13:50:50] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-11-26 13:52:16] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-11-26 13:54:49] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-11-26 13:55:15] [WARNING]: 检查更新失败: Get "https://api.github.com/repos/Mrs4s/go-cqhttp/releases/latest": dial tcp 20.205.243.168:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2022-11-26 13:56:20] [WARNING]: 转换CQ码 ({"type": "image", "data": {"file": "https://i.pixiv.re/img-master/img/2021/02/18/00/00/06/87855738_p1_master1200.jpg"}}) 到MiraiGo Element时出现错误: Get "https://i.pixiv.re/img-master/img/2021/02/18/00/00/06/87855738_p1_master1200.jpg": dial tcp 104.21.234.147:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 将忽略本段CQ码. 
+[2022-11-26 13:56:20] [WARNING]: 好友消息发送失败: 消息为空. 
+[2022-11-26 13:57:08] [WARNING]: 转换CQ码 ({"type": "image", "data": {"file": "https://i.pixiv.re/img-master/img/2022/08/07/07/11/33/100291952_p0_master1200.jpg"}}) 到MiraiGo Element时出现错误: Get "https://i.pixiv.re/img-master/img/2022/08/07/07/11/33/100291952_p0_master1200.jpg": dial tcp 104.21.234.147:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 将忽略本段CQ码. 
+[2022-11-26 13:57:08] [WARNING]: 好友消息发送失败: 消息为空. 
+[2022-11-26 13:59:30] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-11-26 14:00:20] [WARNING]: 转换CQ码 ({"type": "image", "data": {"file": "https://i.pixiv.re/img-master/img/2020/03/13/20/53/39/80090766_p0_master1200.jpg"}}) 到MiraiGo Element时出现错误: Get "https://i.pixiv.re/img-master/img/2020/03/13/20/53/39/80090766_p0_master1200.jpg": dial tcp 104.21.234.147:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 将忽略本段CQ码. 
+[2022-11-26 14:00:20] [WARNING]: 好友消息发送失败: 消息为空. 
+[2022-11-26 18:53:50] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-11-26 18:56:46] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-11-26 19:10:43] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-11-26 19:11:50] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-11-26 19:16:02] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-11-26 19:17:00] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-11-26 19:18:16] [WARNING]: Protocol -> device lock is disable. http api may fail. 
