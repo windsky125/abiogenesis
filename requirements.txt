@@ -1,0 +1,7 @@
+nonebot==1.9.1
+numpy==1.23.5
+opencv_python==4.6.0.66
+Pillow==9.3.0
+pytz==2022.6
+requests==2.28.1
+urllib3==1.26.12
